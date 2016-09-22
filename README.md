@@ -1,3 +1,0 @@
-# estudos-mentoria
-
-Resumos/Estudos
