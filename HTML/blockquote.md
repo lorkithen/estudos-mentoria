@@ -1,4 +1,4 @@
-# **<blockquote>**
+# **blockquote**
 
 Indica que o texto incluído é uma longa citação.
 Destaca o parágrafo deslocando-o um pouco para a direita.
