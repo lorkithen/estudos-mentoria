@@ -6,5 +6,5 @@ Possui um atributo chamado "cite" que serve para determinar a página fonte da ci
 
 ## **Exemplo**
 
-> <blockquote> Aqui há uma citação longa, etc. </blockquote>
+> <<blockquote> Aqui há uma citação longa, etc. </blockquote>>
 
