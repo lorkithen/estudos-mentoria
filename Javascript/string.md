@@ -9,8 +9,8 @@ nas cadeias delimitadas por aspas duplas.
 ### Ex:
 
 ```javascript
->"Estou feliz hoje"
->'"Disse o sábio..."'
+"Estou feliz hoje"
+'"Disse o sábio..."'
 ```
 
 O JavaScript não tem um tipo de dado para representar um único caractere.
@@ -22,10 +22,12 @@ se escrevem inicialmente com uma contra-barra("\") e em seguida o código do cara
 
 ### Ex:
 
-> Quebra de linha: \n 
-> Aspas simples: \' 
-> Aspas dupla: \" 
-> Tabulador: \t 
-> Enter: \r 
-> Avance de página: \f 
-> Retroceder espaço: \b 
+```javascript
+Quebra de linha: \n 
+Aspas simples: \' 
+Aspas dupla: \" 
+Tabulador: \t 
+Enter: \r 
+Avance de página: \f 
+Retroceder espaço: \b 
+```
