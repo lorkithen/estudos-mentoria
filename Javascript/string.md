@@ -22,7 +22,6 @@ se escrevem inicialmente com uma contra-barra("\") e em seguida o código do cara
 
 ### Ex:
 
-```javascript
 Quebra de linha: \n 
 Aspas simples: \' 
 Aspas dupla: \" 
@@ -30,4 +29,3 @@ Tabulador: \t
 Enter: \r 
 Avance de página: \f 
 Retroceder espaço: \b 
-```
